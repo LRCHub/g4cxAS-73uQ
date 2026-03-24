@@ -2,8 +2,24 @@
   "version": 1,
   "base_track": "君が灯してくれた光を今（feat. Hanon）",
   "base_artist": "MARUMOCHI from HoneyWorks",
-  "createdAt": "2026-03-15T03:36:11.075958Z",
+  "createdAt": "2026-03-24T14:36:50.510585Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君が灯してくれた光を今（feat. Hanon）",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_君が灯してくれた光を今(feat._Hanon)_MARUMOCHI_from_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君が灯してくれた光を今 feat.Hanon",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_君が灯してくれた光を今_feat.Hanon_MARUMOCHI_from_HoneyWorks.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
